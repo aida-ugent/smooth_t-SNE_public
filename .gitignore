@@ -56,7 +56,6 @@ coverage.xml
 
 # Results and outputs
 results/
-*.pdf
 *.png
 *.jpg
 *.csv
