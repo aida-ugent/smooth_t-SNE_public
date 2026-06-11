@@ -55,7 +55,6 @@ coverage.xml
 .DS_Store
 
 # Results and outputs
-results/
 *.png
 *.jpg
 *.csv
