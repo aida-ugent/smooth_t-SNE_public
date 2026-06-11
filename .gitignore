@@ -75,3 +75,4 @@ Thumbs.db
 # Docker
 .dockerignore
 docker-compose.override.yml
+mouse-data/tasic2018.pickle
